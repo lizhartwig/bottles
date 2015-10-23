@@ -1,10 +1,10 @@
-Author Name
+# Author Name
 
 Elizabeth Hartwig
-Program Name
+##Program Name
 
 Intro to Programming, October 23,2015
-Brief Description, Date
+###Brief Description, Date
 
 This codes shows how I specs and made them pass.
 
